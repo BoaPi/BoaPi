@@ -27,7 +27,7 @@ A good tool is always a game changer. Here are the tools I use in my daily work 
 
 ### Things I'm interested in 🧐
 
-Aseprite 	![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
 ### Things I work on 📚
 
