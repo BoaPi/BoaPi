@@ -1,7 +1,7 @@
 ## Hi there 👋
 ---
 
-**I'm Tobias (he/him)** - I'm a frontend developer from Berlin, germany.
+**I'm Tobias (he/him)** - I'm a self-taught frontend developer from Berlin, germany. In my spare time I work on random project, which you can see
 
 
 ### Current projects
