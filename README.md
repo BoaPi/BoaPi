@@ -6,6 +6,9 @@
 
 ### Current projects
 
+* [scheduler app](https://github.com/BoaPi/scheduler) - easy app for schools scheduling subjects, teachers, classes and rooms
+* ...
+
 ### Things I know
 
 ### Things I want to learn
