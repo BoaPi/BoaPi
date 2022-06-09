@@ -38,4 +38,4 @@ tbd
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BoaPi&show_icons=true&disable_animations=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoaPi&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoaPi&langs_count=10&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
