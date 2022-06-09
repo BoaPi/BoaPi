@@ -1,4 +1,25 @@
-### Hi there 👋
+## Hi there 👋
+---
+
+**I'm Tobias (he/him)** - I'm a frontend developer from Berlin, germany.
+
+
+### Current projects
+
+### Things I know
+
+### Things I want to learn
+
+### Things I have worked with
+
+### Things I'm interested in
+
+
+
+
+
+
+
 
 <!--
 **BoaPi/BoaPi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
