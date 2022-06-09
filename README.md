@@ -11,10 +11,9 @@ Technologies I work with on regular basis.
 
 ### Technologies I want to learn 🎓
 
-* [scheduler app](https://github.com/BoaPi/scheduler) - easy app for schools scheduling subjects, teachers, classes and rooms
-* ...
+Area of interest and technologies that I'm curious about. Goal is to get a basic understanding. On the long run maybe here are technologies hidden for future development and employments.
 
-### Things I know
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ### Things I want to learn
 
