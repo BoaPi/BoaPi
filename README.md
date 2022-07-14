@@ -31,9 +31,10 @@ A good tool is always a game changer. Here are the tools I use in my daily work 
 
 ### Things I work on 📚
 
-* [scheduler app](https://github.com/BoaPi/scheduler) - easy app for schools scheduling subjects, teachers, classes and rooms
 * [learning Go](https://github.com/BoaPi/learning-go) - everything about learning the Go language.
+* [learning ts](https://github.com/BoaPi/learning-ts) - everything abvout learning typescriot, more of a playground.
 * [tobiasweyer.dev](https://github.com/BoaPi/tobiasweyer.dev) -  future personal website
+* [scheduler app](https://github.com/BoaPi/scheduler) - easy app for schools scheduling subjects, teachers, classes and rooms
 
 ### Stats
 
