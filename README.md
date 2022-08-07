@@ -35,13 +35,12 @@ A good tool is always a game changer. Here are the tools I use in my daily work 
 * [NeoVim Setup](https://github.com/BoaPi/.dot-files/tree/main/nvim) - building a setup for NeoVim as a complete replacement for `VSCode`
 * [learning ts](https://github.com/BoaPi/learning-ts) - everything abvout learning typescriot, more of a playground.
 * [tobiasweyer.dev](https://github.com/BoaPi/tobiasweyer.dev) -  future personal website
-* [scheduler app](https://github.com/BoaPi/scheduler) - easy app for schools scheduling subjects, teachers, classes and rooms
 
 ### Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BoaPi&show_icons=true&disable_animations=true&bg_color=232325&title_color=18e3c8&text_color=ff00f1&icon_color=fdfeff&border_radius=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoaPi&langs_count=10&card_width=250&bg_color=232325&title_color=18e3c8&text_color=ff00f1&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoaPi&langs_count=10&card_width=250&bg_color=232325&title_color=18e3c8&text_color=ff00f1&border_radius=10&exclude_repo=scheduler)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Credits
 Build with inspiration of [rzashakeri beautify github profile](https://github.com/rzashakeri/beautify-github-profile)
