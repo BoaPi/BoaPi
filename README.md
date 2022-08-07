@@ -31,8 +31,8 @@ A good tool is always a game changer. Here are the tools I use in my daily work 
 
 ### Things I work on 📚
 
-* [learning Rust](https://github.com/BoaPi/learning-rust) - everything about learning the rust language.
-* [NeoVim Setup](https://github.com/BoaPi/.dot-files/tree/main/nvim) - building a setup for NeoVim as a complete replacement for `VSCode`
+* [learning rust](https://github.com/BoaPi/learning-rust) - everything about learning the rust language.
+* [NeoVim setup](https://github.com/BoaPi/.dot-files/tree/main/nvim) - building a setup for NeoVim as a complete replacement for `VSCode`
 * [learning ts](https://github.com/BoaPi/learning-ts) - everything abvout learning typescriot, more of a playground.
 * [tobiasweyer.dev](https://github.com/BoaPi/tobiasweyer.dev) -  future personal website
 
