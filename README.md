@@ -34,7 +34,6 @@ building and painting miniatures all around Warhammer 40K. Also playing the game
 * [learning rust](https://github.com/BoaPi/learning-rust) - everything about learning the rust language.
 * [NeoVim setup](https://github.com/BoaPi/.dot-files/tree/main/nvim) - building a setup for NeoVim as a complete replacement for `VSCode`
 * [learning ts](https://github.com/BoaPi/learning-ts) - everything abvout learning typescriot, more of a playground.
-* [tobiasweyer.dev](https://github.com/BoaPi/tobiasweyer.dev) -  future personal website
 
 ### Stats
 
