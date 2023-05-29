@@ -39,7 +39,7 @@ building and painting miniatures all around Warhammer 40K. Also playing the game
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BoaPi&show_icons=true&disable_animations=true&bg_color=232325&title_color=18e3c8&text_color=ff00f1&icon_color=fdfeff&border_radius=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoaPi&langs_count=7&card_width=250&bg_color=232325&title_color=18e3c8&text_color=ff00f1&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoaPi&langs_count=10&card_width=250&bg_color=232325&title_color=18e3c8&text_color=ff00f1&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Credits
 Build with inspiration of [rzashakeri beautify github profile](https://github.com/rzashakeri/beautify-github-profile)
