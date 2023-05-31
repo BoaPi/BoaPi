@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I'm Tobias (he/him)** - I'm a self-taught frontend developer from Berlin, germany. In my spare time I work on random projects, which you can see under [Things I work on 📚](#things-i-work-on-📚)
+**I'm Tobias (he/him)** - I'm a self-taught frontend developer from Berlin, germany.
 
 ### Things I know 📖
 
