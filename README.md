@@ -25,16 +25,6 @@ A good tool is always a game changer. Here are the tools I use in my daily work 
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Tmux](https://img.shields.io/badge/Tmux-000.svg?style=for-the-badge&logo=gnu-bash&logoColor=6BE44E) ![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white) ![oh my zsh](https://img.shields.io/badge/oh%20my%20ZSH-000.svg?style=for-the-badge&logo=gnu-bash&logoColor=6BE44E) ![Firefox Developer Edition](https://img.shields.io/badge/Firefox%20Developer%20Edition-2554c4?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-### Things I'm interested in 🧐
-
-building and painting miniatures all around Warhammer 40K. Also playing the game.
-
-### Things I work on 📚
-
-* [learning rust](https://github.com/BoaPi/learning-rust) - everything about learning the rust language.
-* [NeoVim setup](https://github.com/BoaPi/.dot-files/tree/main/nvim) - building a setup for NeoVim as a complete replacement for `VSCode`
-* [learning ts](https://github.com/BoaPi/learning-ts) - everything abvout learning typescriot, more of a playground.
-
 ### Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BoaPi&show_icons=true&disable_animations=true&bg_color=232325&title_color=18e3c8&text_color=ff00f1&icon_color=fdfeff&border_radius=10&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
