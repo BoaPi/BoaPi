@@ -16,7 +16,7 @@ Technologies I work with on regular basis.
 
 Area of interest and technologies that I'm curious about. Goal is to get a basic understanding. On the long run maybe here are technologies hidden for future development and employments.
 
-![HTMX](https://img.shields.io/badge/htmx-%23E34F26.svg?style=for-the-badge) ![Web Components](https://img.shields.io/badge/web%20components-%23324FFF.svg?style=for-the-badge) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![cURL](https://img.shields.io/badge/cURL-%230C5D8E.svg?style=for-the-badge) ![Makefile](https://img.shields.io/badge/makefile-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTMX](https://img.shields.io/badge/htmx-%23E34F26.svg?style=for-the-badge) ![Web Components](https://img.shields.io/badge/web%20components-%23324FFF.svg?style=for-the-badge) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![cURL](https://img.shields.io/badge/cURL-%230C5D8E.svg?style=for-the-badge) ![Makefile](https://img.shields.io/badge/makefile-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Tools I use
 
